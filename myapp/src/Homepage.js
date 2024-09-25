@@ -48,7 +48,7 @@ function Homepage() {
                 <div className="project-item">
                     <h3>Research Internship at Centre for Speech and Language Technologies </h3>
                     <p>2 Directed Research Projects with Dr. Agha Ali Raza (PhD. Carnegie Mellon)
-                        <a href="https://c-salt.org" target="_blank" rel="noopener noreferrer"> (CSALT)</a>
+                        <a href="https://www.c-salt.org" target="_blank" rel="noopener noreferrer"> (CSALT)</a>
                     </p>
                     <p>Skills: Evaluating Large Language Models, Researching upon how varying prompts 
                         result in different outputs across Models such as Llama, Mistral & Mixtral </p>

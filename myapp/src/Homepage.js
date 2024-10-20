@@ -20,13 +20,13 @@ function Homepage() {
                 <h2>Education</h2>
                 <div className="education-item">
                     <h3>Lahore University of Management Sciences (LUMS)</h3>
-                    <p>BS Computer Science | Aug 2021 - Present</p>
+                    <p>BS Computer Science | Sept 2021 - Present</p>
                     <p>Relevant Coursework: Data Structures, Algorithms, AI, Distributed Systems, and more.</p>
                 </div>
                 <div className="education-item">
                     <h3>Beaconhouse Defence Campus</h3>
                     <p>A levels | Sept 2019 - Aug 2021</p>
-                    <p>Secured 100% scholarship </p>
+                    <p>Secured 100% Acadamic based scholarship </p>
                 </div>
                 <div className="education-item">
                     <h3>The City School MTC Lahore</h3>

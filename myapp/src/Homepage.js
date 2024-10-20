@@ -8,10 +8,10 @@ function Homepage() {
             <header className="header">
             <h1>Muhammad Talha Tariq</h1>
             <p>
-                <a href="https://github.com/talha110-cyber" target="_blank" rel="noopener noreferrer">GitHub</a> • 
-                <a href="https://linkedin.com/in/talhatariq110" target="_blank" rel="noopener noreferrer"> LinkedIn</a> • 
+                <a href="https://github.com/talha110-cyber" target="_blank" rel="noopener noreferrer">GitHub</a> 
+                <a href="https://linkedin.com/in/talhatariq110" target="_blank" rel="noopener noreferrer"> LinkedIn</a> 
                 <a href="mailto:talha110tariq@gmail.com"> talha110tariq@gmail.com</a> 
-                <a href="tel:+923200401823" target="_blank" rel="noopener noreferrer"> • +923200401823</a>
+                <a href="tel:+923200401823" target="_blank" rel="noopener noreferrer">  +923200401823</a>
             </p>
            </header>
 
@@ -47,8 +47,8 @@ function Homepage() {
                 </div>
                 <div className="project-item">
                     <h3>Research Internship at Centre for Speech and Language Technologies </h3>
-                    <p>2 Directed Research Projects with Dr. Agha Ali Raza (PhD. Carnegie Mellon)
-                        <a href="https://www.c-salt.org" target="_blank" rel="noopener noreferrer"> (CSALT)</a>
+                    <p>2 Directed Research Projects with Dr. Agha Ali Raza (PhD. Carnegie Mellon)</p>
+                      <p>  <a href="https://www.c-salt.org" target="_blank" rel="noopener noreferrer"> (CSALT)</a>
                     </p>
                     <p>Skills: Evaluating Large Language Models, Researching upon how varying prompts 
                         result in different outputs across Models such as Llama, Mistral & Mixtral </p>
@@ -58,14 +58,14 @@ function Homepage() {
 
             {/* Volunteer Section */}
             <section className="volunteer">
-                <p>Program Coordinator for The Citizens Foundation in association with CBS LUMS
-                    <a href={require('./TCF.jpeg')} target="_blank" rel="noopener noreferrer"> Certificate </a>
+                <p>Program Coordinator for The Citizens Foundation in association with CBS LUMS</p>
+                  <p>  <a href={require('./TCF.jpeg')} target="_blank" rel="noopener noreferrer"> Certificate </a></p>
+                
+                <p>Exchange Semester at University of Baltistan July - August 2022 </p>
+                  <p>  <a href={require('./baltistan.jpeg')} target="_blank" rel="noopener noreferrer"> Certificate</a>
                 </p>
-                <p>Exchange Semester at University of Baltistan July - August 2022
-                    <a href={require('./baltistan.jpeg')} target="_blank" rel="noopener noreferrer"> Certificate</a>
-                </p>
-                <p>Competed in the "COP in my City" Program
-                    <a href={require('./COP.jpeg')} target="_blank" rel="noopener noreferrer"> Certificate</a>
+                <p>Competed in the "COP in my City" Program </p>
+                 <p>   <a href={require('./COP.jpeg')} target="_blank" rel="noopener noreferrer"> Certificate</a>
                 </p>
             </section>
         </div>

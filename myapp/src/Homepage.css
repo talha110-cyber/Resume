@@ -1,7 +1,7 @@
 /* Homepage background */
 .homepage {
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(135deg, #f80000 0%, #5d1a1a 100%);  /* Smooth gradient */
+    background: linear-gradient(135deg, #670b0b 0%, #5d1a1a 100%);  /* Smooth gradient */
     min-height: 100vh;
     padding: 20px;
     color: #fffefe;

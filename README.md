@@ -1,1 +1,1 @@
-https://main.d3qvwfrqvoqila.amplifyapp.com
+https://talhatariq.online
